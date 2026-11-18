@@ -10,8 +10,9 @@
 ## 界面预览
 
 <div align="center">
+  <img src="docs/images/harbor-sharing.png" alt="Harbor FTP 共享界面" width="380">
   <img src="docs/images/harbor-settings.png" alt="Harbor FTP 设置界面" width="380">
-  <p>设置界面：配置连接、访问权限和外观</p>
+  <p>共享界面与设置界面</p>
 </div>
 
 ## 功能
