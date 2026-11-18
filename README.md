@@ -7,6 +7,13 @@
 
 > **安全提示：**普通 FTP 不加密账号、密码或传输内容。请仅在可信网络中使用，不要直接暴露到互联网。
 
+## 界面预览
+
+<div align="center">
+  <img src="docs/images/harbor-settings.png" alt="Harbor FTP 设置界面" width="380">
+  <p>设置界面：配置连接、访问权限和外观</p>
+</div>
+
 ## 功能
 
 - 选择本机文件夹，通过 FTP 分享给其他设备
